@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Media project</title>
+</head>
+
+<body>
+<ul> 
+	<li><a href="home.html">home</a></li>
+	<li><a href="music.html">music</a></li>
+	<li><a href="hobbies.html">hobbies</a></li>
+</ul>
+<h1>Introduction</h1>
+	<p>This is a website dedicated to Geordann Daguplo. This is where you casn learn about his music, hobbies, and more about his personalitly.</p>
+</body>
+</html>
+
+<img src= "file:///C:/Users/gdagu1/Downloads/ocean.jpg"/>
+
